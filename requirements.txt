@@ -1,9 +1,10 @@
-streamlit
-pandas
-numpy
-requests
-plotly
-scikit-learn
-xgboost
 fastapi==0.104.0
 uvicorn[standard]==0.23.2
+pandas
+numpy
+scikit-learn
+xgboost
+streamlit
+plotly
+sqlalchemy
+psycopg2-binary
